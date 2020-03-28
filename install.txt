@@ -1,0 +1,27 @@
+npm install vue bootstrap-vue bootstrap
+npm install vuejs-datepicker --save
+npm install vue-chartjs chart.js --save
+npm install node-fetch --save
+//npm install fusioncharts vue-fusioncharts --save
+npm install moment
+npm install deep-clone
+npm i vue-video --save
+//>npm install --save luxon vue-datetime
+
+
+
+bug: 
+node_modules->bootstrap->_transition.scss comment .collapse else cannot function
+
+row
+col-sm-1
+card
+col-5
+icon-big text-center
+icon icon-size
+card-body
+head
+value
+card-foter
+footer-text
+footer
